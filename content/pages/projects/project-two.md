@@ -10,7 +10,7 @@ description: >-
   most of the time.
 featuredImage:
   type: ImageBlock
-  url: /images/Bare_Hosting-removebg-preview.png
+  url: /images/home10-img2-301x401.webp
   altText: Project thumbnail image
 media:
   type: ImageBlock
